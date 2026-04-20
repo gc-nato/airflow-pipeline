@@ -76,9 +76,9 @@ docker compose up -d
 
 2. Acceder a Airflow:
 
-http://localhost:8080
+``` http://localhost:8080 ```
 
-3. Actiar y ejecutar el DAG:
+3. Activar y ejecutar el DAG:
 - etl_csv_pipeline
 - Trigger DAG desde la interfaz
 
