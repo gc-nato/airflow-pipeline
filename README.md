@@ -54,14 +54,16 @@ El pipeline genera archivos CSV procesados con datos filtrados listos para anál
 
 ## 📂 Estructura del proyecto
 
+```
 airflow-docker/
-|
-|-- dags/
-| └── etl_csv_pipeline.py
-|
-|-- docker-compose.yml
-|-- README.md
-|-- .gitignore
+│
+├── dags/
+│   └── etl_csv_pipeline.py
+│
+├── docker-compose.yml
+├── README.md
+└── .gitignore
+```
 ---
 
 ## ▶️ Ejecución del proyecto
@@ -69,7 +71,8 @@ airflow-docker/
 1. Levantar servicios:
 
 ```bash
-docker compose up -d```
+docker compose up -d
+```
 
 2. Acceder a Airflow:
 
