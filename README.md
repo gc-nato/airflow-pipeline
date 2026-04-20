@@ -106,8 +106,7 @@ docker compose up -d
 - Integración con Data Lakes / Databricks
 
 ## 👨‍💻 Autor
-Oracio Tamayo Alejo
-Apasionado por la Ingeniería de Datos, enfocado en el desarrollo de pipelines, procesamiento de datos y arquitectura Big Data.
+Oracio Tamayo Alejo - Apasionado por la Ingeniería de Datos, enfocado en el desarrollo de pipelines, procesamiento de datos y arquitectura Big Data.
 
 ### 📌 Nota
 Este proyecto forma parte de mi proceso de aprendizaje en Data Engineering, aplicando buenas prácticas y simulando escenarios reales de la industria.
